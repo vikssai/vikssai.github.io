@@ -1,4 +1,8 @@
-#Doing urbanization right:
+---
+layout: post
+title: "Doing urbanization right in Indian Context"
+date: 2019-10-09
+---
 
 Every minute there are 30 people migrating to Indian cities which account for an expected 500 million people making their way to Indian cities in a decade. With 70% of India's built environment for 2030 yet to take shape, there is a golden opportunity for Indian stakeholders to solve for basic amenities such as adequate & affordable houses to live, smooth transportation networks for daily commute, avaibility of good jobs, great education & medical infrastructure among others. Contrary to ideal scenario, there are increasing evidences that Indian cities are chocking up in providing basic delivery of public goods. The growing income and aspiration of people is leading to higher automobile purchase - thus clogging our cities [(18 kmph commute speed)](https://economictimes.indiatimes.com/news/politics-and-nation/bengaluru-has-second-slowest-commute-speed-study/articleshow/70912200.cms?from=mdr), almost [annual flooding](https://twitter.com/fayedsouza/status/1179856647981678593) in the major cities, skewed job [growth]([http://www.infoedge.in/pdfs/jobspeak-report-april-2017.pdf](http://www.infoedge.in/pdfs/jobspeak-report-april-2017.pdf)) thus creating unbalanced demand for water, sanitation, drainage, housing units, as major problems.
 
