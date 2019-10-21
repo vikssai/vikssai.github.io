@@ -8,7 +8,7 @@ In India, there are 30 people migrating to cities every minute. With 70% of Indi
 
 Fortunately, India has around 52 cities with more than 1 million population spread across the nation which could be nodes of development countrywide.
 
-![Indian_City](../images/Indian_City.png)
+![Indian_City](../images/Indian_City.jpg)
 
 [**Map -** Location of cities with population more than a million]
 
