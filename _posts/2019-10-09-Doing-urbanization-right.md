@@ -36,7 +36,7 @@ In order to achieve above, I present below some of the most importatnt areas whi
    
 2. **Water, Drainage Network, Waste Disposal, Urban Forestation**-  54% of India is facing high to extremely high water stress and [100 million Indians](https://www.indiawatertool.in/) live in area of poor water quality. 
 
-   ![water stress](https://github.com/vikssai/vikssai.github.io/blob/master/image/water%20stress.jpg)
+   ![water stress](../image/water%20stress.jpg)
 
    
 
