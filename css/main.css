@@ -43,6 +43,7 @@ ul.posts li {
 }
 
 img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
+   width:720px;
+   height:1280px;
+   class:"center";
 }
