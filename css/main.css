@@ -43,8 +43,8 @@ ul.posts li {
 }
 
 img[src~="thumbnail"] {
-   width:720px;
-   height:1080px;
+   width:360px;
+   height:540px;
 }
 img[src~="bordered"] {
    border: 1px solid black;
