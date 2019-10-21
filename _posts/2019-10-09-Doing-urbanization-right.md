@@ -8,7 +8,7 @@ In India, there are 30 people migrating to cities every minute. With 70% of Indi
 
 Fortunately, India has around 52 cities with more than 1 million population spread across the nation which could be nodes of development countrywide.
 
-![Indian_City](../images/Indian_City.jpg)
+![Indian_City](/images/Indian_City.jpg)
 
 [**Map -** Location of cities with population more than a million]
 
@@ -32,7 +32,7 @@ In order to achieve above, I present below some of the most importatnt areas whi
    
 2. **Water, Drainage Network, Waste Disposal, Urban Forestation**-  54% of India is facing high to extremely high water stress and [100 million Indians](https://www.indiawatertool.in/) live in area of poor water quality. 
 
-   ![water stress](../image/water%20stress.jpg)
+   ![water stress](/image/water%20stress.jpg)
 
    
 
