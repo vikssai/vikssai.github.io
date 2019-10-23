@@ -42,11 +42,16 @@ ul.posts li {
     list-style: none;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
 img[src~="thumbnail"] {
    width:360px;
    height:500px;
-   margin-left: auto;
-   margin-right: auto;
 }
 img[src~="bordered"] {
    border: 1px solid black;
