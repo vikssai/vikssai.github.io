@@ -45,12 +45,7 @@ ul.posts li {
 img[src*='#center'] { 
     display: block;
     margin: auto;
-}
-
-img[src~="thumbnail"] {
-   width:360px;
-   height:500px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
+    width:360px;
+    height:500px;
+    border: 1px solid black;
 }
