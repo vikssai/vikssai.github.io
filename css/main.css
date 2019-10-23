@@ -59,7 +59,7 @@ img[src*='#center_rect'] {
 img[src*='#center_sqr'] { 
     display: block;
     margin: auto;
-    width:300px;
+    width:340px;
     height:300px;
     border: 1px solid black;
 }
