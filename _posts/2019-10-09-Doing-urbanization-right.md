@@ -16,15 +16,15 @@ In order to achieve above, I present below some of the most importatnt areas whi
 
 1. **Transport Network** - Within Indian dense city, mass transit is the only option to move people fast, comfortable and in bulk. Fortunately, there are plans to have metro rail facilities in 50 cities in the near future. However, they are time intensive, expensive and route-inflexible. Metro rail must be complemented by a massive fleet of (electric) buses that run on the network designed and developed based on population/employment and travel survey data. 
   
-  ![Fleet Density](/image/Pop_Desnity_and_bus_density.jpg#center) 
+  ![Fleet Density](/image/Pop_Desnity_and_bus_density.jpg#center_rect) 
   
    The first mile and last mile should be served by E-rickshaw, rideshare, bikeshare partners. All of the transportation usages could be integrated on [one nation one card](https://www.cdac.in/index.aspx?id=pe_vlsi_One_Nation_One_Card) (much like PayTM of travel), recently launched by GoI on a subscription model similar to [Whim](https://whimapp.com/). Fortunately, Indians are already a heavy user of non-car mode for daily travel. Unlike [85% of Americans](https://www.thetransportpolitic.com/databook/travel-mode-shares-in-the-u-s/) who travel by car to their work, Indian are travelling whooping 91% by non-car modes thus person based mobility is already priortized. A premium on driving the automobiles will lead to less pollution and less congestion on road.  A focus on fleet electrification and charging network development should follow concurrently. If possible, port access should be considered for these cities to enable international trade and exports.  
    
-   ![Fleet Density](/image/Delhi%Mode%Share.jpg#center) 
+   ![Mode Share](/image/Delhi%Mode%Share.jpg#center) 
    
 2. **Water, Drainage Network, Waste Disposal, Urban Forestation**-  54% of India is facing high to extremely high water stress and [100 million Indians](https://www.indiawatertool.in/) live in area of poor water quality. 
 
-   ![water stress](/image/water%20stress.jpg#center)
+   ![water stress](/image/water%20stress.jpg#center_sqr)
 
    Moreover shoddy drainage/sewage system, lack of solid waste management, lack of green cover inflict a vicious health hazard cycle.  Metering, progressive water-billing, concrete tax/recharge credit for water permeability, rainwater harvesting, watershed renovation and development are few steps which should be taken for good water avaibility. Smart incentivized waste collection based on GPS enabled trash bins and optimally routed collection vehicles, waste to industrial usages such as road construction, decentralized waste management will help in Swach Bharat Abhiyan. Completion of no-clogs extensive drainage network will help in clean neighborhood and help in preventive care. Geotagged afforestation drive like [MillionTreeNYC](https://www.milliontreesnyc.org/) will help in increasing the greenspace/parks/grounds and will lead in offsetting the carbon emissions. 
 
@@ -32,7 +32,7 @@ In order to achieve above, I present below some of the most importatnt areas whi
 
 4. **Measure and mine Urban Data** - *'If you can't measure it, you can't improve it'* - This could not be truer for Indian cities. Though government has set-up a [nation wide portal](https://data.gov.in/) for Open Data yet the granularity of the same is very rudimentry. Helping government digitizing their services and periodic release of datasets akin to some world class city ([Chicago,](https://data.cityofchicago.org/) [New York](https://opendata.cityofnewyork.us/)) is a big business opportunity. A cohort of entreprenuers could use, analyze, model and build Gov-Tech enterprise using the easily accessible open data.
 
-   ![water stress](/image/iudxxx.jpg%23center)
+   ![urban data](/image/iudxxx.jpg%23center_rect)
 
    In providing the services, the government should be working as an enabler rather a provider of service. Open data will help in providing better service in transportation, communicate, water, energy, waste management, business and citizen services. 
 
