@@ -23,7 +23,7 @@ Fast, reliable, cheap, and integrated transportation system works as a backbone 
    ```
    A | B
    - | - 
-   ![bus_network](/image/transpo_ai/flow_speed.jpg#blr_routes) | ![lon_route](/image/transpo_ai/flow_speed.jpg#longest_route)
+   ![bus_network](/image/transpo_ai/blr_routes.jpg#center_sqr) | ![lon_route](/image/transpo_ai/longest_route.jpg#center_sqr)
    ```
 
    [^Image Courtsey]: https://github.com/geohacker/bmtc
