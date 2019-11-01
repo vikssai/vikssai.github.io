@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Using AI & Analytics to decongest Indian Cities"
+title: "Using AI & Analytics to Decongest Indian Cities"
 date: 2019-11-1
 
 ---
@@ -24,7 +24,7 @@ Fast, reliable, cheap, and integrated transportation system works as a backbone 
    | :---------------------------------------------------------: | :----------------------------------------------------------: |
    |                    Bengaluru Bus Network                    |                        Longest Route                         |
 
-   Globally, to increase ridership and towards having a viable bus networks, few of the cities are redesigning their bus routes. The inherent philosophy is to have more transfers (between buses), increase last mile mobility (to serve far areas), higher frequency and optimize for the ridership. ![Bus_network](/image/transpo_ai/dublin_redesign.jpg#center_rect) [Houston](https://humantransit.org/2014/05/houston-a-transit-network-reimagined.html), Auckland, Dublin are few cities which already implemented this overhaul in their system and saw more people using the same without much operational change. 
+   Globally, to increase ridership and towards having a viable bus networks, few of the cities are redesigning their bus routes. The inherent philosophy is to have more transfers (between buses), increase last mile mobility (to serve far areas), higher frequency and optimize for the ridership. ![Bus_network](/image/transpo_ai/dublin_redesign.jpg#center_sqr) [Houston](https://humantransit.org/2014/05/houston-a-transit-network-reimagined.html), Auckland, Dublin are few cities which already implemented this overhaul in their system and saw more people using the same without much operational change. 
 
    | ![Houston_Early](/image/transpo_ai/Houston_pre.jpg#center_sqr) | ![Houston_Early](/image/transpo_ai/Houston_post.jpg#center_sqr) |
    | :----------------------------------------------------------: | :----------------------------------------------------------: |

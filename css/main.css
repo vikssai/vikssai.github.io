@@ -82,7 +82,7 @@ img[src*='#center_2rect'] {
     display: block;
     margin: auto;
     width:480px;
-    height:480px;
+    height:340px;
     border: 1px solid black;
 }
 img[src*='#center_lsqr'] { 
