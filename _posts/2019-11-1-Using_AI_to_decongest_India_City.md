@@ -18,13 +18,11 @@ Fast, reliable, cheap, and integrated transportation system works as a backbone 
 
    
 
-2. **Bus network redesign** - BMTC runs a staggering 2000 different routes with large headway (time difference between two consecutive buses of same route), often intending to reach expensive to serve places. This results in low frequency of important and major routes. Some of the routes like 600 is 117 km long and takes a whopping 5 hours to complete.
+2. **Bus network redesign** - BMTC runs a staggering 2000 different routes with large headway (time difference between two consecutive buses of same route), often intending to reach expensive to serve places. This results in low frequency of important and major routes. Some of the routes like 600 is 117 km long and takes a [whopping 5 hours](https://github.com/geohacker/bmtc) to complete.
 
-   |![bus_network](/image/transpo_ai/blr_routes.jpg#center_sqr) | ![lon_route](/image/transpo_ai/longest_route.jpg#center_sqr)|
+   |![bus_network](/image/transpo_ai/blr_routes.jpg#center_2sqr) | ![lon_route](/image/transpo_ai/longest_route.jpg#center_2sqr)|
 
-   [^Image Courtsey]: https://github.com/geohacker/bmtc
-
-   Globally, to increase ridership and towards having a viable bus networks, few of the cities are redesigning their bus routes. The inherent philosophy is to have more transfers (between buses), increase last mile mobility (to serve far areas), higher frequency and optimize for the ridership. ![Bus_network](/image/transpo_ai/dublin_redesign.jpg#center_rect) [Houston](https://humantransit.org/2014/05/houston-a-transit-network-reimagined.html), Auckland, Dublin are few cities which already implemented this overhaul in their system and saw more people using the same without much operational change. <**Insert Houston Bus Network Redesign**> So, what really Bengaluru (or any other Indian City) can do to make bus network more viable? Simplify the bus routes into smaller, more frequent routes that encourages on transfers for longer commute. Anonymized origin-destinations commute time/volume data through ridership,surveys,mobile network,employer records should be helpful in determining routes of importance, demand forecast and therefore ~ adjusting real time frequency.  
+   Globally, to increase ridership and towards having a viable bus networks, few of the cities are redesigning their bus routes. The inherent philosophy is to have more transfers (between buses), increase last mile mobility (to serve far areas), higher frequency and optimize for the ridership. ![Bus_network](/image/transpo_ai/dublin_redesign.jpg#center_2rect) [Houston](https://humantransit.org/2014/05/houston-a-transit-network-reimagined.html), Auckland, Dublin are few cities which already implemented this overhaul in their system and saw more people using the same without much operational change. <**Insert Houston Bus Network Redesign**> So, what really Bengaluru (or any other Indian City) can do to make bus network more viable? Simplify the bus routes into smaller, more frequent routes that encourages on transfers for longer commute. Anonymized origin-destinations commute time/volume data through ridership,surveys,mobile network,employer records should be helpful in determining routes of importance, demand forecast and therefore ~ adjusting real time frequency.  
 
    
 

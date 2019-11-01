@@ -70,6 +70,21 @@ img[src*='#center_lrect'] {
     height:360px;
     border: 1px solid black;
 }
+}
+img[src*='#center_2sqr'] { 
+    display: block;
+    margin: auto;
+    width:380px;
+    height:340px;
+    border: 1px solid black;
+}
+img[src*='#center_2rect'] { 
+    display: block;
+    margin: auto;
+    width:480px;
+    height:300px;
+    border: 1px solid black;
+}
 img[src*='#center_lsqr'] { 
     display: block;
     margin: auto;
