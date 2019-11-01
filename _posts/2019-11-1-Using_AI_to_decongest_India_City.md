@@ -18,7 +18,9 @@ Fast, reliable, cheap, and integrated transportation system works as a backbone 
 
    
 
-2. **Bus network redesign** - BMTC runs a staggering 2000 different routes with large headway (time difference between two consecutive buses of same route), often intending to reach expensive to serve places. This results in low frequency of important and major routes. Some of the routes like 600 is 117 km long and takes a whopping 5 hours to complete. |![bus_network](/image/transpo_ai/blr_routes.jpg#center_sqr) | ![lon_route](/image/transpo_ai/longest_route.jpg#center_sqr)|
+2. **Bus network redesign** - BMTC runs a staggering 2000 different routes with large headway (time difference between two consecutive buses of same route), often intending to reach expensive to serve places. This results in low frequency of important and major routes. Some of the routes like 600 is 117 km long and takes a whopping 5 hours to complete.
+
+   |![bus_network](/image/transpo_ai/blr_routes.jpg#center_sqr) | ![lon_route](/image/transpo_ai/longest_route.jpg#center_sqr)|
 
    [^Image Courtsey]: https://github.com/geohacker/bmtc
 
