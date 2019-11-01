@@ -66,13 +66,13 @@ img[src*='#center_sqr'] {
 img[src*='#center_lrect'] { 
     display: block;
     margin: auto;
-    width:480px;
-    height:400px;
+    width:520px;
+    height:360px;
     border: 1px solid black;
 }
 img[src*='#center_lsqr'] { 
     display: block;
     margin: auto;
-    width:720px;
-    height:600px;
+    width:780px;
+    height:540px;
     border: 1px solid black;
