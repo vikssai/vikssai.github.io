@@ -16,7 +16,7 @@ Rising pollution level, high oil import bill, improving battery technology, grow
 
 
 
-> **Goal: **Maximize the number of people travelling (specifically urban travel) using true renewable energy source
+**Goal: **<u>Maximize the number of people travelling (specifically urban travel) using true renewable energy source</u>
 
 
 
@@ -69,4 +69,4 @@ The geospatial similarities, economic realities (2010 China vs 2019 India) of In
 
 4. The government should open electric transport as a marketplace where along with government buses, private buses, mini-buses, 2W, 3W etc should integrate with the data stack. Uniform charging standards, open and shareable data will guide the free market to align and provide clean, competitive and cheap services. In London, despite large metro network, 62 lakh journeys are carried out by bus, out of 317.60 lakh of total daily commute. So, instead of everyone trying to win the mobility race individually, it is imperative that the stakeholders should join the force and hunt in the pack!
 
-**<u>Picture of electric mobility stack</u>**
+![data_stack](/image/EV/data_stack.jpg#center_lrect)
