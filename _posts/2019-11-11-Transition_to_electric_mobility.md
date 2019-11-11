@@ -16,7 +16,7 @@ Rising pollution level, high oil import bill, improving battery technology, grow
 
 
 
-**Goal: **<u>Maximize the number of people travelling (specifically urban travel) using true renewable energy source</u>
+**Goal: ** *<u>Maximize the number of people travelling (specifically urban travel) using true renewable energy source</u>*
 
 
 
