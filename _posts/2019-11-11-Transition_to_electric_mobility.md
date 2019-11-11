@@ -1,4 +1,3 @@
-```markdown
 ---
 
 layout: post
@@ -6,7 +5,6 @@ title: "Transition to Electric Mobility in Indian Context"
 date: 2019-11-11
 
 ---
-```
 
 
 
@@ -55,7 +53,7 @@ The geospatial similarities, economic realities (2010 China vs 2019 India) of In
 
 ***
 
-1. Battery prices are expected to plunge to $87/Kwh by 2025. The Total Cost of Ownership (TCO) for slow charging fleet will be cost-competitive at 30,000 km annually (less than average Indian bus utilization) by mid-2020s. Moreover, FAME 2, which is a flagship subsidy program has a corpus of mere INR 10,000 crores over three years. In comparison, the Government annual subsidy bill is INR 3,00,000 crore. Also, 92% of Indian buses are privately owned which are not supported by this program. So, increasing the amount in corpus and roping in private fleet by providing a subsidy for their battery components will help. This will substantially increase bus fleet size and simultaneously increase the demand for charging stations and making mobility sustainable. ![TCO](/image/EV/TCO.png#center_lrect)**
+1. Battery prices are expected to plunge to $87/Kwh by 2025. The Total Cost of Ownership (TCO) for slow charging fleet will be cost-competitive at 30,000 km annually (less than average Indian bus utilization) by mid-2020s. Moreover, FAME 2, which is a flagship subsidy program has a corpus of mere INR 10,000 crores over three years. In comparison, the Government annual subsidy bill is INR 3,00,000 crore. Also, 92% of Indian buses are privately owned which are not supported by this program. So, increasing the amount in corpus and roping in private fleet by providing a subsidy for their battery components will help. This will substantially increase bus fleet size and simultaneously increase the demand for charging stations and making mobility sustainable. ![TCO](/image/EV/TCO.png#center_lrect)
 2. Two-wheelers have been one of the mass adopted modes of transportation in urban cities. According to Ather Energy data, the average daily driven distance by users stands at 17 km on the weekday and 14 km on the weekend. The range provided by the manufacturer fits the idea of charging at night/office. However, lack of designated parking spots, the majority of people staying in apartment-style housing, charging is a real concern. So, building codes should be passed for parking bay with charging sockets. Night-time precision tariff for EV charging should be employed.
 3. Indian consumers are cost-sensitive. The boom in 3 wheeler was largely fueled by the low price of lead-acid battery-powered e-rickshaw as compared to their ICE counterparts ([INR 40,000 vs 1 lakh](https://economictimes.indiatimes.com/industry/auto/auto-news/unorganised-players-with-cost-edge-lead-the-e-rickshaw-race/articleshow/71788181.cms)). Now India does not manufacture or assemble the lithium-ion batteries but has to import it. The estimated 120 GWh of cumulative demand during 2017–2020 would cost USD 24 billion in imported packs if a domestic industry were not developed, whereas assembling the packs in-country would require USD 15-18 billion in imported cells, while developing a USD 6–9 billion pack assembly industry in India. To enable manufacturing/assembly, which will bring down the cost of the vehicle, the government needs to acquire the rights to mine abroad as the needed elements are scarce. Moreover, domestic electric bus manufacturing should be prioritized at all cost to reap the benefits in the future. 
 4. The government should open electric transport as a marketplace where along with government buses, private buses, mini-buses, 2W, 3W etc should integrate with the data stack. Uniform charging standards, open and shareable data will guide the free market to align and provide clean, competitive and cheap services. In London, despite large metro network, 62 lakh journeys are carried out by bus, out of 317.60 lakh of total daily commute. So, instead of everyone trying to win the mobility race individually, it is imperative that the stakeholders should join the force and hunt in the pack!
